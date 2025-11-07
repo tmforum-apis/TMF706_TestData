@@ -1,8 +1,8 @@
-# TMF706_TestData
-TM Forum Open APIs (Apache 2.0) Test Data API
+# TMF706 TestData
 
-This API provides a standardized mechanism for the management of test data artifacts used for test case parameterization. These include Test Data Schemas and Test Data Instances
+TM Forum Open API (Apache 2.0) TestData API.
 
-To access this API; (the User Guide, Postman Collection, Swagger file, Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+TM Forum Open API for TestData.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
